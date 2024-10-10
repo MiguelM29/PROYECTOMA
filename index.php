@@ -66,7 +66,7 @@
             </div>
             <div class="col">
                 <div class="row">
-                    <h2 style="margin-left: 35px; margin-top: 20px;">Autentificacion</h2>
+                    <h2 style="margin-left: 35px; margin-top: 20px;">Autentificacion Miguel Angel</h2>
                 </div>
                 <div class="row" style="padding:15px; padding-right: 300px; margin-left:10px;">
                     <form method="POST">
