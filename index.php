@@ -60,6 +60,7 @@
 
     <div class="container" style="background-color: rgb(78, 156, 229 ); border:solid 5px color black; margin-top:100px">
         <h3 style="text-align: center;">Tu tienda de confianza</h3>
+        <h3 style="text-align: center;">Ahora o nunca para comprar un buen dispositivo</h3>
         <div class="row" style="background-color: rgb(78, 156, 229 );">
             <div class="col" style="background-color: rgb(99,99,99);">
                 <img style="margin-left: 150px; margin-top: 20px;" src="cliente/img/logo.png" height="350px" width="350px" />
